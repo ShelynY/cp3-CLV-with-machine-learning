@@ -21,32 +21,3 @@ CEO dari perusahaan asuransi mobil ingin meningkatkan income dengan membuat stra
 1.3. Goal
 
 Berdasarkan permasalahan tersebut,perusahaan asuransi ini memerlukan model Machine Learning yang dapat memprediksi CLV, sehingga dapat membuat startegi pemasaran yang tepat. Tujuan dari proyek ini adalah untuk mengembangkan model ML prediksi CLV berdasarkan dataset yang tersedia. Model prediksi ini diharapkan dapat membantu perusahaan untuk membuat strategi pemasaran sehingga dapat meningkatkan income perusahaan.
-1.4 Analytic Approach
-
-Jadi, yang perlu dilakukan adalah menganalisis data untuk dapat menemukan pola dari fitur-fitur yang ada, yang dapat membedakan satu customer dengan yang lainnya.
-
-Selanjutnya, kita akan membangun suatu model ML regresi yang akan membantu perusahaan untuk dapat memprediksi CLV dari setiap customer, sehingga akan berguna untuk menentukan aspek apa saja yang berpengaruh dalam memberikan profit kepada perusahaan dan perusahaan bisa mengambil keputusan bisnis yang tepat dari nilai CLV yang diprediksi model.
-1.5 Metric Evaluation
-
-Evaluasi metrik yang akan digunakan yaitu:
-
-    RMSE adalah nilai rataan akar kuadrat dari error
-    MAE adalah rataan nilai absolut dari error
-    MAPE adalah rataan nilai persentase error yang dihasilkan oleh model regresi
-
-Semakin kecil nilai RMSE, MAE, dan MAPE yang dihasilkan, berarti model semakin akurat dalam memprediksi sesuai dengan limitasi fitur yang digunakan.
-2. Data Understanding
-
-Attributes Information
-Attribute 	Data Type 	Description
-Vehicle Class 	Object 	Tipe kendaraan
-Coverage 	Object 	Jenis pertanggungan polis asuransi customer
-Renew Offer Type 	Object 	Penawaran untuk pembaruan polis
-EmploymentStatus 	Object 	Status pekerjaan cutomer
-Marital Status 	Object 	Status pernikahan cutomer
-Education 	Object 	Tingkat pendidikan customer
-Number of Policies 	Float 	Jumlah polis yang dimiliki customer
-Monthly Premium Auto 	Float 	Premi customer perbulan (USD)
-Total Claim Amount 	Float 	Jumlah claim customer (USD)
-Income 	Float 	Pendapatan cutomer (USD)
-Customer Lifetime Value 	Float 	Customer Lifetime Value (Target)
