@@ -1,5 +1,5 @@
-# cp3-CLV-with-machine-learning
 CUSTOMER LIFETIME VALUE
+
 Contents
 
 1. Business Problem Understanding
