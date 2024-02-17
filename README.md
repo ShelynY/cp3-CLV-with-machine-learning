@@ -1,5 +1,7 @@
 CUSTOMER LIFETIME VALUE
 
+https://www.canva.com/design/DAF8_bXfnHE/tHygFYQzFd0Qq1TzDQO6hA/view?utm_content=DAF8_bXfnHE&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 Contents
 
 1. Business Problem Understanding
